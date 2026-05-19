@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Resistencias") (type "KiCad") (uri "C:/Users/begos/Documents/CURSOPCB/library/Resistencias.pretty") (options "") (descr ""))
+)
