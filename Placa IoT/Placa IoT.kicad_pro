@@ -488,7 +488,12 @@
       "Resistencias"
     ],
     "pinned_symbol_libs": [
-      "Resisstor"
+      "Resisstor",
+      "ic_control",
+      "ic_power",
+      "antenas",
+      "Connector",
+      "connectors"
     ]
   },
   "meta": {
