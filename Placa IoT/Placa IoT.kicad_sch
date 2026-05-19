@@ -2,9 +2,199 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid 0d07bf43-6e07-4c11-9dbe-c684e27f9d9f)
-	(paper "A4")
+	(uuid "0d07bf43-6e07-4c11-9dbe-c684e27f9d9f")
+	(paper "A3")
+	(title_block
+		(title "Placa IoT")
+		(date "2026-05-19")
+		(company "ELE0226")
+		(comment 1 "Begoña Sierra")
+	)
 	(lib_symbols)
+	(sheet
+		(at 39.37 33.02)
+		(size 76.2 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "8be79b3f-eaf2-4c4d-9dca-3691953c7f3d")
+		(property "Sheetname" "ALIMENTACION"
+			(at 39.37 32.3084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ALIMENTACION.kicad_sch"
+			(at 39.37 75.5146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Placa IoT"
+				(path "/0d07bf43-6e07-4c11-9dbe-c684e27f9d9f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 260.35 67.31)
+		(size 119.38 53.34)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "b1b9d4d4-c8e6-4217-9e8f-f2faf4811ec0")
+		(property "Sheetname" "BATERIA"
+			(at 260.35 66.5984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BATERIA.kicad_sch"
+			(at 260.35 121.2346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Placa IoT"
+				(path "/0d07bf43-6e07-4c11-9dbe-c684e27f9d9f"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 153.67 34.29)
+		(size 67.31 218.44)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "d6d9d8e0-4aef-4c06-9dd2-74d50ba93bfb")
+		(property "Sheetname" "MCU_WIFI_BLU"
+			(at 153.67 33.5784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU_WIFI_BLU.kicad_sch"
+			(at 153.67 253.3146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Placa IoT"
+				(path "/0d07bf43-6e07-4c11-9dbe-c684e27f9d9f"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 36.83 195.58)
+		(size 86.36 64.77)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "f2794fbe-73cf-42b1-b047-6c3a72b264ac")
+		(property "Sheetname" "RF_LORA"
+			(at 36.83 194.8684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RF_LORA.kicad_sch"
+			(at 36.83 260.9346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Placa IoT"
+				(path "/0d07bf43-6e07-4c11-9dbe-c684e27f9d9f"
+					(page "4")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")

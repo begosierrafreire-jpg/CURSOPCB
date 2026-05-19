@@ -1,0 +1,11 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "31a7b5fd-803d-41b1-a9b1-b99643a95afe")
+	(paper "A4")
+	(title_block
+		(title "RF LORA")
+	)
+	(lib_symbols)
+)

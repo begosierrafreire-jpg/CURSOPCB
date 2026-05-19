@@ -1,0 +1,11 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "432f4e2e-e240-4827-b585-c97abf544335")
+	(paper "A4")
+	(title_block
+		(title "Microcontrolador")
+	)
+	(lib_symbols)
+)

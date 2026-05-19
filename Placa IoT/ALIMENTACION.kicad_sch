@@ -1,0 +1,11 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "56c1d851-6ff8-43bd-bf69-5bf70300eaae")
+	(paper "A4")
+	(title_block
+		(title "Bloque alimentacion")
+	)
+	(lib_symbols)
+)
