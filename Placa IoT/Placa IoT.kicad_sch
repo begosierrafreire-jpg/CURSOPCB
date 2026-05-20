@@ -104,6 +104,52 @@
 		)
 	)
 	(sheet
+		(at 264.16 171.45)
+		(size 111.76 63.5)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "beab28d9-c5ea-4823-b014-95fe5988bf77")
+		(property "Sheetname" "USB"
+			(at 264.16 170.7384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 264.16 235.5346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Placa IoT"
+				(path "/0d07bf43-6e07-4c11-9dbe-c684e27f9d9f"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 153.67 34.29)
 		(size 67.31 218.44)
 		(exclude_from_sim no)
