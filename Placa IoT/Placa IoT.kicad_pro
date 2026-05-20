@@ -155,7 +155,7 @@
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.2,
         "min_via_annular_width": 0.1,
-        "min_via_diameter": 0.5,
+        "min_via_diameter": 0.3,
         "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
       },
@@ -537,7 +537,7 @@
       "specctra_dsn": "",
       "vrml": ""
     },
-    "page_layout_descr_file": ""
+    "page_layout_descr_file": "EDITOR DELPLACAS "
   },
   "schematic": {
     "annotate_start_num": 0,
@@ -657,7 +657,7 @@
         "uuid": "0d07bf43-6e07-4c11-9dbe-c684e27f9d9f"
       }
     ],
-    "used_designators": "J1-6,R4-21,D1-6,#PWR34-56,U5-6,C21-27,Q1-2,SW1-2,L3,FL1",
+    "used_designators": "Q3",
     "variants": []
   },
   "sheets": [

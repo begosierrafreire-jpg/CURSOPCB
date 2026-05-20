@@ -2,7 +2,7 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid "c426d6e5-66e2-432c-a884-f57f3261a1ac")
+	(uuid "576f1fa9-425a-4c6a-a3ce-35ece0a5c483")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Device:D_TVS"
@@ -2060,7 +2060,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 136.652 114.3 90)
 			(hide yes)
 			(show_name no)
@@ -2337,7 +2337,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 186.182 123.19 90)
 			(hide yes)
 			(show_name no)
@@ -2417,7 +2417,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 93.98 95.758 90)
 			(hide yes)
 			(show_name no)
@@ -2579,7 +2579,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 93.98 103.378 90)
 			(hide yes)
 			(show_name no)
