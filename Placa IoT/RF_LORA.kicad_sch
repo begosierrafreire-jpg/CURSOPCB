@@ -1675,7 +1675,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 229.87 49.8348 0)
 			(hide yes)
 			(show_name no)
@@ -1915,7 +1915,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "antennas:IPEX_MHF_I"
+		(property "Footprint" "antenas:ANTENNA_PIFA_3D_2.4GHZ"
 			(at 307.34 20.32 0)
 			(hide yes)
 			(show_name no)
@@ -2366,7 +2366,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 235.9152 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -2448,7 +2448,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 215.5952 60.96 0)
 			(hide yes)
 			(show_name no)

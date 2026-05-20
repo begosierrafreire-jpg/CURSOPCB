@@ -770,29 +770,27 @@
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "U"
-				(at -6.35 8.89 0)
+			(property "Reference" "U4"
+				(at 0 10.16 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
 				)
 			)
 			(property "Value" "PRO-OB-536"
-				(at -6.35 6.35 0)
+				(at 0 7.62 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
 				)
 			)
-			(property "Footprint" "antennas:ANTENNA_PIFA_3D_2.4GHZ"
+			(property "Footprint" "antenas:IPEX_MHF_I"
 				(at 50.8 30.48 0)
 				(show_name no)
 				(do_not_autoplace yes)
@@ -913,42 +911,6 @@
 						)
 					)
 					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin no_connect line
-					(at 8.89 -1.27 180)
-					(length 2.54)
-					(name "NC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin no_connect line
-					(at 8.89 -3.81 180)
-					(length 2.54)
-					(name "NC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3044,12 +3006,6 @@
 		(color 0 0 0 0)
 		(uuid "e1b5a9eb-9d0c-48e9-921d-3b418f2967c9")
 	)
-	(junction
-		(at 177.8 124.46)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e93275ff-f64f-40bd-85e9-d1471624824d")
-	)
 	(wire
 		(pts
 			(xy 31.75 147.32) (xy 40.64 147.32)
@@ -3549,16 +3505,6 @@
 			(type default)
 		)
 		(uuid "5ae29077-ff4b-4f7e-9259-12b737495789")
-	)
-	(wire
-		(pts
-			(xy 185.42 124.46) (xy 177.8 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5d8cf18b-2d1b-4ffc-b6fa-86d76bf1620a")
 	)
 	(wire
 		(pts
@@ -8222,7 +8168,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistencias:R_0603_1608Metric"
 			(at 181.61 126.238 90)
 			(hide yes)
 			(show_name no)
@@ -9191,7 +9137,7 @@
 				)
 			)
 		)
-		(property "Footprint" "antenas:ANTENNA_PIFA_3D_2.4GHZ"
+		(property "Footprint" "antenas:IPEX_MHF_I"
 			(at 220.98 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -9227,9 +9173,6 @@
 				(justify left)
 			)
 		)
-		(pin "5"
-			(uuid "64f3266b-da94-48ca-9c3d-744ffac99593")
-		)
 		(pin "2"
 			(uuid "2e752bd4-3d06-4097-8181-f584c391638c")
 		)
@@ -9238,9 +9181,6 @@
 		)
 		(pin "3"
 			(uuid "3d982352-72d8-442f-b749-2ab732b6c9a4")
-		)
-		(pin "4"
-			(uuid "e07e47ca-cb27-4f29-b697-da44d98b0dd3")
 		)
 		(instances
 			(project "Placa IoT"
